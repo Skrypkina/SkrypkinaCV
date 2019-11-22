@@ -1,0 +1,112 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  display: flex;
+  flex-direction: column;
+  font-family: 'ff-tisa-web-pro', Palatino, ' Palatino Linotype',
+    'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+  font-size: 14px;
+}
+.title {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0;
+  letter-spacing: 0;
+  display: block;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #000;
+  margin-bottom: 0.5rem;
+}
+.subtitle {
+  display: block;
+  font-size: 16px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+.link {
+  display: inline-block;
+  text-align: center;
+  color: #333;
+  width: 100%;
+  transform: translateY(-15px);
+  margin: 0 auto 30px;
+  margin: 0 auto 1.875rem;
+  text-decoration: none;
+}
+.linkTitle {
+  display: block;
+  margin: 0;
+  text-transform: uppercase;
+  color: #c33;
+  margin-bottom: 10px;
+}
+.linkSubtitle {
+  display: block;
+  margin: 0;
+  text-transform: uppercase;
+  color: #c33;
+}
+.par {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  margin-top: 0;
+}
+.linkGoit {
+  color: #c33;
+  text-decoration: none;
+}
+
+.linkContainer {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 560px;
+    height: 100vh;
+    margin-left: 26%;
+    padding-top: 60px;
+  }
+  .subtitle {
+    font-size: 18px;
+    margin-bottom: 60px;
+  }
+  .linkTitle {
+    font-size: 18px;
+  }
+  .linkSubtitle {
+    font-size: 14px;
+  }
+  .par {
+    font-size: 18px;
+  }
+  .linkContainer {
+    width: 400px;
+  }
+}

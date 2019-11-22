@@ -1,0 +1,22 @@
+import React from 'react';
+import { Route, Switch } from 'react-router-dom';
+import Dashboard from '../Dashboard/Dashboard';
+import About from '../About/About';
+import Projects from '../Projects/Projects';
+import Contacts from '../Contacts/Contacts';
+
+const App = () => {
+  return (
+    <div>
+      <Dashboard />
+
+      <Switch>
+        <Route path="/" exact component={About} />
+        <Route path="/projects" component={Projects} />
+        <Route path="/contacts" component={Contacts} />
+      </Switch>
+    </div>
+  );
+};
+
+export default App;
