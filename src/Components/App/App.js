@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div>
       <Dashboard />
-
+      <About />
       <Switch>
         <Route exact path="/" component={About} />
         <Route path="/projects" component={Projects} />
