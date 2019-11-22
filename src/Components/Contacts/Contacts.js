@@ -18,6 +18,10 @@ const Contacts = () => (
       <p className={styles.text}>
         <span className={styles.textBold}>Skype</span>: Larysa_sk
       </p>
+      <p className={styles.text}>
+        <span className={styles.textBold}>linkedin</span>:
+        linkedin.com/in/larysa-skrypkina
+      </p>
     </div>
   </div>
 );

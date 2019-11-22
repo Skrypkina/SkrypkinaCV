@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../../documents/Larysa_Skrypkina_-_Junior_Front_end_Developer_Latest.pdf';
+import resume from '../../documents/Larysa_Skrypkina_-_Junior_Front_end_Developer.pdf';
 import styles from './About.module.css';
 
 const About = () => (
