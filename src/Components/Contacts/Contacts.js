@@ -18,9 +18,17 @@ const Contacts = () => (
       <p className={styles.text}>
         <span className={styles.textBold}>Skype</span>: Larysa_sk
       </p>
-      <p className={styles.text}>
-        <span className={styles.textBold}>linkedin</span>:
-        linkedin.com/in/larysa-skrypkina
+      <p>
+        {/* <span className={styles.textBold}>linkedin</span>:
+        linkedin.com/in/larysa-skrypkina */}
+        <a
+          className={styles.parLinkedin}
+          href="https://www.linkedin.com/in/larysa-skrypkina/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          linkedIn<i class="fab fa-linkedin-in"></i>
+        </a>
       </p>
     </div>
   </div>
