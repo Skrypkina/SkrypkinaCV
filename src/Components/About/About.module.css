@@ -24,6 +24,7 @@ img {
   font-family: 'ff-tisa-web-pro', Palatino, ' Palatino Linotype',
     'Palatino LT STD', 'Book Antiqua', Georgia, serif;
   font-size: 14px;
+  position: relative;
 }
 .title {
   display: block;
@@ -85,6 +86,9 @@ img {
   justify-content: space-between;
   margin: 0 auto;
 }
+.img {
+  display: none;
+}
 
 @media (min-width: 768px) {
   .container {
@@ -108,5 +112,11 @@ img {
   }
   .linkContainer {
     width: 400px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    margin-left: 35%;
   }
 }

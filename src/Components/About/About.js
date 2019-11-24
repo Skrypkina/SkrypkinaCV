@@ -1,5 +1,6 @@
 import React from 'react';
 import resume from '../../documents/Larysa_Skrypkina_-_Junior_Front_end_Developer.pdf';
+// import MyImg from '../../images/IMG-0307.JPG';
 import styles from './About.module.css';
 
 const About = () => (
@@ -59,6 +60,7 @@ const About = () => (
         <h4 className={styles.linkTitle}>Github</h4>
         <h6 className={styles.linkSubtitle}>View Repository</h6>
       </a>
+      {/* <img className={styles.img} src={MyImg} alt="avatar" /> */}
     </div>
     <p className={styles.par}>
       Though I am a junior front-end developer by day, I have put pen to paper

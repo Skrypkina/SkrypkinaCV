@@ -1,4 +1,5 @@
 import React from 'react';
+import avatar from '../../images/IMG-0458 (1).JPG';
 import styles from './Contacts.module.css';
 
 const Contacts = () => (
@@ -6,6 +7,8 @@ const Contacts = () => (
     <h2 className={styles.title}>Contacts</h2>
     <h4 className={styles.subtitle}>Available for full-time work</h4>
     <h4 className={styles.subtitleNext}>and would love to hear from you</h4>
+
+    <img className={styles.img} src={avatar} alt="avatar" />
     <div className={styles.textContainer}>
       <p className={styles.text}>
         <span className={styles.textBold}>Email</span>:
@@ -18,9 +21,7 @@ const Contacts = () => (
       <p className={styles.text}>
         <span className={styles.textBold}>Skype</span>: Larysa_sk
       </p>
-      <p>
-        {/* <span className={styles.textBold}>linkedin</span>:
-        linkedin.com/in/larysa-skrypkina */}
+      <p className={styles.textLink}>
         <a
           className={styles.parLinkedin}
           href="https://www.linkedin.com/in/larysa-skrypkina/"
