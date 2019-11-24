@@ -28,7 +28,7 @@ const Contacts = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          linkedIn<i class="fab fa-linkedin-in"></i>
+          linkedIn
         </a>
       </p>
     </div>
