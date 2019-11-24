@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01e74a2817432a8097e06f8efb36df4f",
+    "revision": "2b14c5f298a7ef91e3eb2c4b3a3562fb",
     "url": "/SkrypkinaCV/index.html"
   },
   {
-    "revision": "0654c188d185cd3273d0",
-    "url": "/SkrypkinaCV/static/css/main.862c744a.chunk.css"
+    "revision": "ecfa407f764f30e71344",
+    "url": "/SkrypkinaCV/static/css/main.e7e90729.chunk.css"
   },
   {
-    "revision": "5cb72f64a314f73eb81c",
-    "url": "/SkrypkinaCV/static/js/2.8178e709.chunk.js"
+    "revision": "e7071f90c789d728e712",
+    "url": "/SkrypkinaCV/static/js/2.ea5a652c.chunk.js"
   },
   {
-    "revision": "0654c188d185cd3273d0",
-    "url": "/SkrypkinaCV/static/js/main.98cf2bdd.chunk.js"
+    "revision": "ecfa407f764f30e71344",
+    "url": "/SkrypkinaCV/static/js/main.eeba3f4b.chunk.js"
   },
   {
     "revision": "d4bacf45382e2c95c88b",
     "url": "/SkrypkinaCV/static/js/runtime-main.07b5a49b.js"
+  },
+  {
+    "revision": "790ecf051fdb73b0a2d02406b1b93180",
+    "url": "/SkrypkinaCV/static/media/IMG-0458 (1).790ecf05.JPG"
   },
   {
     "revision": "91c00e19e35b73484c1cb4fe32a9eb64",
