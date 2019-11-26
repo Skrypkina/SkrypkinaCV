@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d78b75e8b3a160f6cfb006651bd19eca",
+    "revision": "bc8431bffc29aa003ea2bcaf29a251c0",
     "url": "/SkrypkinaCV/index.html"
   },
   {
-    "revision": "1400a210b74c6085419d",
+    "revision": "4ffef8957adc1da9536c",
     "url": "/SkrypkinaCV/static/css/main.e7e90729.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SkrypkinaCV/static/js/2.ea5a652c.chunk.js"
   },
   {
-    "revision": "1400a210b74c6085419d",
-    "url": "/SkrypkinaCV/static/js/main.337116d9.chunk.js"
+    "revision": "4ffef8957adc1da9536c",
+    "url": "/SkrypkinaCV/static/js/main.1a51a7f4.chunk.js"
   },
   {
     "revision": "d4bacf45382e2c95c88b",
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SkrypkinaCV/static/media/IMG-0458 (1).790ecf05.JPG"
   },
   {
-    "revision": "13fba402a0ea5a616641499cf93f1a82",
-    "url": "/SkrypkinaCV/static/media/Larysa_Skrypkina_-_Junior_Front_end_Developer.13fba402.pdf"
+    "revision": "2813bd81aa1865001449a0cacd605293",
+    "url": "/SkrypkinaCV/static/media/Larysa_Skrypkina_-_Junior_Front_end_Developer.2813bd81.pdf"
   },
   {
     "revision": "e90f83814032e0ad9b64069f1a1eec43",
