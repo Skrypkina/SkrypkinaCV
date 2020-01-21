@@ -22,7 +22,7 @@ const Projects = () => (
             <h4 className={styles.linkFirstTitle}>Online library</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: REACT.js, REDUX, REDAX ASINC, CSS3
+            Technologis used: REACT.js, REDUX, REDAX ASYNC, CSS3
           </p>
 
           <a
@@ -98,7 +98,7 @@ const Projects = () => (
             <h4 className={styles.linkKidsLikeTitle}>Kids-Like</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: CSS3, REACT.js, CRUD, REACT RAUTER, REDAX, HOOKS,
+            Technologis used: CSS3, REACT.js, CRUD, REACT RAUTER, REDUX, HOOKS,
             NODE.js, EXPRESS.js, MongoDB
           </p>
           <a
