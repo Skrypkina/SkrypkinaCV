@@ -22,7 +22,7 @@ const Projects = () => (
             <h4 className={styles.linkFirstTitle}>Online library</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: REACT.js, REDUX, REDAX ASYNC, CSS3
+            Technologis used: REACT.js, REDUX, REDUX ASYNC, CSS3
           </p>
 
           <a
@@ -75,7 +75,7 @@ const Projects = () => (
             <h4 className={styles.linkStatisticTitle}>Statistic charts</h4>
           </a>
           <p className={styles.overlayParStat}>
-            Technologis used: CSS3, REACT.js, HTTP request, REACT RAUTER
+            Technologis used: CSS3, REACT.js, HTTP request, REACT ROUTER
           </p>
           <a
             href="https://skrypkina.github.io/bitmedia-test/"
@@ -98,7 +98,7 @@ const Projects = () => (
             <h4 className={styles.linkKidsLikeTitle}>Kids-Like</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: CSS3, REACT.js, CRUD, REACT RAUTER, REDUX, HOOKS,
+            Technologis used: CSS3, REACT.js, CRUD, REACT ROUTER, REDUX, HOOKS,
             NODE.js, EXPRESS.js, MongoDB
           </p>
           <a
