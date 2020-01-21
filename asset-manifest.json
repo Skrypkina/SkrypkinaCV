@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SkrypkinaCV/static/css/main.67b94592.chunk.css",
-    "main.js": "/SkrypkinaCV/static/js/main.b1e57191.chunk.js",
-    "main.js.map": "/SkrypkinaCV/static/js/main.b1e57191.chunk.js.map",
+    "main.css": "/SkrypkinaCV/static/css/main.c56456b3.chunk.css",
+    "main.js": "/SkrypkinaCV/static/js/main.365778d8.chunk.js",
+    "main.js.map": "/SkrypkinaCV/static/js/main.365778d8.chunk.js.map",
     "runtime-main.js": "/SkrypkinaCV/static/js/runtime-main.07b5a49b.js",
     "runtime-main.js.map": "/SkrypkinaCV/static/js/runtime-main.07b5a49b.js.map",
     "static/js/2.2297c320.chunk.js": "/SkrypkinaCV/static/js/2.2297c320.chunk.js",
     "static/js/2.2297c320.chunk.js.map": "/SkrypkinaCV/static/js/2.2297c320.chunk.js.map",
     "index.html": "/SkrypkinaCV/index.html",
-    "precache-manifest.c10b276935c64c19c2449457f2dd5b3b.js": "/SkrypkinaCV/precache-manifest.c10b276935c64c19c2449457f2dd5b3b.js",
+    "precache-manifest.c305ac4277f2675d8e8a9561462e150c.js": "/SkrypkinaCV/precache-manifest.c305ac4277f2675d8e8a9561462e150c.js",
     "service-worker.js": "/SkrypkinaCV/service-worker.js",
-    "static/css/main.67b94592.chunk.css.map": "/SkrypkinaCV/static/css/main.67b94592.chunk.css.map",
+    "static/css/main.c56456b3.chunk.css.map": "/SkrypkinaCV/static/css/main.c56456b3.chunk.css.map",
     "static/media/Larysa_Skrypkina_-_Junior_Front_end_Developer.pdf": "/SkrypkinaCV/static/media/Larysa_Skrypkina_-_Junior_Front_end_Developer.2813bd81.pdf",
     "static/media/Projects.module.css": "/SkrypkinaCV/static/media/bg-pattern.5a69c256.png",
     "static/media/bitmedia.jpeg": "/SkrypkinaCV/static/media/bitmedia.156da253.jpeg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.07b5a49b.js",
     "static/js/2.2297c320.chunk.js",
-    "static/css/main.67b94592.chunk.css",
-    "static/js/main.b1e57191.chunk.js"
+    "static/css/main.c56456b3.chunk.css",
+    "static/js/main.365778d8.chunk.js"
   ]
 }
