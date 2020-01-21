@@ -22,7 +22,7 @@ const Projects = () => (
             <h4 className={styles.linkFirstTitle}>Online library</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: REACT.js, REDUX, REDUX ASYNC, CSS3
+            Technologies used: REACT.js, REDUX, REDUX ASYNC, CSS3
           </p>
 
           <a
@@ -50,7 +50,7 @@ const Projects = () => (
             <h4 className={styles.linkImageTitle}>Image stock</h4>
           </a>
           <p className={styles.overlayParImg}>
-            Technologis used: CSS3, REACT.js, HTTP request
+            Technologies used: CSS3, REACT.js, HTTP request
           </p>
           <a
             href="https://skrypkina.github.io/goit-react-hw-03-image-finder/"
@@ -75,7 +75,7 @@ const Projects = () => (
             <h4 className={styles.linkStatisticTitle}>Statistic charts</h4>
           </a>
           <p className={styles.overlayParStat}>
-            Technologis used: CSS3, REACT.js, HTTP request, REACT ROUTER
+            Technologies used: CSS3, REACT.js, HTTP request, REACT ROUTER
           </p>
           <a
             href="https://skrypkina.github.io/bitmedia-test/"
@@ -98,7 +98,7 @@ const Projects = () => (
             <h4 className={styles.linkKidsLikeTitle}>Kids-Like</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: CSS3, REACT.js, CRUD, REACT ROUTER, REDUX, HOOKS,
+            Technologies used: CSS3, REACT.js, CRUD, REACT ROUTER, REDUX, HOOKS,
             NODE.js, EXPRESS.js, MongoDB
           </p>
           <a
@@ -124,7 +124,7 @@ const Projects = () => (
             <h4 className={styles.linkCardsListTitle}>Card List</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologis used: WEBPACK, CSS3, BOOTSTRAP, HTML5, CORE JS,
+            Technologies used: WEBPACK, CSS3, BOOTSTRAP, HTML5, CORE JS,
             HANDLEBARS.js,HTTP request
           </p>
           <a
