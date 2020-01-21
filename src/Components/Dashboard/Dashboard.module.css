@@ -76,6 +76,7 @@ img {
   .menuTitle {
     text-transform: uppercase;
     color: #000;
+    font-size: 20px;
   }
   .menuTitle:hover {
     color: palevioletred;
@@ -84,6 +85,7 @@ img {
   .menuDescr {
     text-transform: uppercase;
     display: block;
+    font-size: 12px;
   }
   .svg {
     display: inline-block;

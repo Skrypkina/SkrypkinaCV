@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../../documents/Larysa_Skrypkina_-_Junior_Front_end_Developer_first.pdf';
+import resume from '../../documents/Larysa_Skrypkina_-_Junior_Front_end_Developer.pdf';
 // import MyImg from '../../images/IMG-0307.JPG';
 import styles from './About.module.css';
 

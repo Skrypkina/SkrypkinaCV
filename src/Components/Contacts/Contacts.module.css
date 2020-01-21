@@ -11,8 +11,6 @@ html {
 .container {
   margin-left: auto;
   margin-right: auto;
-  padding-left: 0.9375rem;
-  padding-right: 0.9375rem;
   display: flex;
   flex-direction: column;
   font-family: 'ff-tisa-web-pro', Palatino, ' Palatino Linotype',
@@ -39,41 +37,86 @@ html {
 }
 
 .subtitleNext {
-  margin-bottom: 60px;
-}
-
-.text {
-  text-transform: uppercase;
-}
-
-.textContainer {
-  padding: 50px 10px;
-  border: 1px solid #a69c8f;
-  box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.8);
-}
-.textBold {
-  font-weight: bold;
-}
-.parLinkedin {
-  font-size: 16px;
-  text-decoration: none;
-  color: #c33;
+  margin-bottom: 90px;
 }
 .img {
   display: none;
+  width: 0;
 }
+
+/* card */
+
+.card {
+  font-family: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console',
+    'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
+    'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier,
+    monospace;
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: 180px;
+  padding: 16px 5px 10px;
+  border-radius: 3px;
+  overflow: hidden;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
+  background-color: #1c1c1c;
+}
+.parLinkedin {
+  text-decoration: none;
+  color: #9ccc65;
+}
+.parLinkedin:hover {
+  color: #c33;
+}
+.cardParagraph {
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
+  line-height: 20px;
+}
+.purple {
+  color: #ba68c8;
+  font-weight: bold;
+}
+
+.red {
+  color: #ef5350;
+  padding-left: 5px;
+}
+.cyan {
+  color: #4dd0e1;
+}
+.green {
+  color: #9ccc65;
+}
+
 @media (min-width: 768px) {
   .container {
     width: 560px;
     height: 100vh;
     margin-left: 26%;
     padding-top: 60px;
+    font-size: 16px;
+  }
+  .card {
+    width: 480px;
+    height: 260px;
+    padding: 40px 40px 20px;
+  }
+  .cardParagraph {
+    line-height: 26px;
+  }
+  .red {
+    padding-left: 26px;
+  }
+  .subtitleNext {
+    margin-bottom: 120px;
   }
 }
 
 @media (min-width: 1200px) {
   .container {
-    margin-left: 20%;
+    margin-left: 35%;
     position: relative;
   }
   .title {
@@ -82,23 +125,31 @@ html {
 
   .img {
     display: block;
-    width: 70%;
-    border-radius: 50%;
-    height: auto;
+    width: 140px;
+    height: 140px;
     position: absolute;
-    top: 10%;
-    left: 94%;
+    background-size: cover;
+    /* top: 52%; */
+    left: 74%;
     box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.8);
     border: 1px solid #a69c8f;
+    border-radius: 2px;
   }
   .textContainer {
     width: 500px;
   }
   .subtitleNext {
-    margin-bottom: 140px;
+    margin-bottom: 90px;
   }
   .textContainer {
     border-radius: 50%;
     text-align: center;
+  }
+  .card {
+    width: 600px;
+  }
+  .imgDiv {
+    position: relative;
+    top: 10px;
   }
 }
