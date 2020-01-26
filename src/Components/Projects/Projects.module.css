@@ -57,7 +57,7 @@ img {
 .projectContainerSecond {
   display: block;
   width: 280px;
-  height: 100px;
+  height: 140px;
   position: relative;
   box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.8);
   overflow: hidden;
@@ -90,7 +90,7 @@ img {
   color: rgba(0, 0, 0, 0.8);
   transition: 0.2s color linear;
   position: absolute;
-  top: 0;
+  top: 20%;
   left: 28%;
 }
 
@@ -115,6 +115,14 @@ img {
   color: #c33;
 }
 
+.overlay {
+  /* display: none; */
+  width: 0;
+  height: 0;
+}
+.linkFirstTitle {
+  display: block;
+}
 @media (min-width: 768px) {
   .container {
     width: 560px;
@@ -127,6 +135,7 @@ img {
     width: 500px;
     height: 200px;
     margin-bottom: 20px;
+    position: relative;
   }
   .linkImageTitle {
     top: 36%;
@@ -153,6 +162,9 @@ img {
 @media (min-width: 1200px) {
   .container {
     width: 900px;
+  }
+  .overlay {
+    width: unset;
   }
 
   .subtitle {
