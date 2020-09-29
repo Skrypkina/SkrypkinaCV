@@ -3,8 +3,9 @@ import styles from './Projects.module.css';
 import bitmedia from '../../images/bitmedia.jpeg';
 import reacttest from '../../images/reacttest.jpg';
 import imageFinder from '../../images/imageFinder.jpg';
-import kidsLike from '../../images/kidsLike.jpg';
+// import kidsLike from '../../images/kidsLike.jpg';
 import cards from '../../images/cards.jpg';
+import barbarshop from '../../images/barbershop.jpg';
 
 const Projects = () => (
   <div className={styles.container}>
@@ -88,21 +89,24 @@ const Projects = () => (
         </div>
       </div>
       <div className={styles.projectContainerFirst}>
-        <img src={kidsLike} alt="computerImage" className={styles.imgSecond} />
+        <img
+          src={barbarshop}
+          alt="computerImage"
+          className={styles.imgSecond}
+        />
         <div className={styles.overlay}>
           <a
             href="https://kids-like.goit.co.ua/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h4 className={styles.linkKidsLikeTitle}>Kids-Like</h4>
+            <h4 className={styles.linkKidsLikeTitle}>Barbershop</h4>
           </a>
           <p className={styles.overlayPar}>
-            Technologies used: CSS3, REACT.js, CRUD, REACT ROUTER, REDUX, HOOKS,
-            NODE.js, EXPRESS.js, MongoDB
+            Technologies used: WEBPACK, CSS3, HTML5, CORE JS
           </p>
           <a
-            href="https://kids-like.goit.co.ua/"
+            href="https://skrypkina.github.io/portfolio/"
             target="_blank"
             rel="noopener noreferrer"
             className={styles.overlayLink}
