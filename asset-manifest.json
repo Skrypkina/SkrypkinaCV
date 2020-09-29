@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/SkrypkinaCV/static/css/main.327d5d06.chunk.css",
-    "main.js": "/SkrypkinaCV/static/js/main.9698b32d.chunk.js",
-    "main.js.map": "/SkrypkinaCV/static/js/main.9698b32d.chunk.js.map",
+    "main.css": "/SkrypkinaCV/static/css/main.a2c9942d.chunk.css",
+    "main.js": "/SkrypkinaCV/static/js/main.906283e1.chunk.js",
+    "main.js.map": "/SkrypkinaCV/static/js/main.906283e1.chunk.js.map",
     "runtime-main.js": "/SkrypkinaCV/static/js/runtime-main.07b5a49b.js",
     "runtime-main.js.map": "/SkrypkinaCV/static/js/runtime-main.07b5a49b.js.map",
     "static/js/2.2297c320.chunk.js": "/SkrypkinaCV/static/js/2.2297c320.chunk.js",
     "static/js/2.2297c320.chunk.js.map": "/SkrypkinaCV/static/js/2.2297c320.chunk.js.map",
     "index.html": "/SkrypkinaCV/index.html",
-    "precache-manifest.8f06ec0cf660b4157919ec0f52ebe3a8.js": "/SkrypkinaCV/precache-manifest.8f06ec0cf660b4157919ec0f52ebe3a8.js",
+    "precache-manifest.7d48b707c058dcc01b59a0b54560f3c1.js": "/SkrypkinaCV/precache-manifest.7d48b707c058dcc01b59a0b54560f3c1.js",
     "service-worker.js": "/SkrypkinaCV/service-worker.js",
-    "static/css/main.327d5d06.chunk.css.map": "/SkrypkinaCV/static/css/main.327d5d06.chunk.css.map",
+    "static/css/main.a2c9942d.chunk.css.map": "/SkrypkinaCV/static/css/main.a2c9942d.chunk.css.map",
     "static/media/Larysa_Skrypkina_-_Junior_Front_end_Developer.pdf": "/SkrypkinaCV/static/media/Larysa_Skrypkina_-_Junior_Front_end_Developer.90ee8374.pdf",
+    "static/media/barbershop.jpg": "/SkrypkinaCV/static/media/barbershop.6c8d6666.jpg",
     "static/media/Projects.module.css": "/SkrypkinaCV/static/media/bg-pattern.5a69c256.png",
     "static/media/bitmedia.jpeg": "/SkrypkinaCV/static/media/bitmedia.156da253.jpeg",
     "static/media/cardPhoto.jpg": "/SkrypkinaCV/static/media/cardPhoto.9c84f696.jpg",
     "static/media/cards.jpg": "/SkrypkinaCV/static/media/cards.3d2865cb.jpg",
     "static/media/imageFinder.jpg": "/SkrypkinaCV/static/media/imageFinder.190d417e.jpg",
-    "static/media/kidsLike.jpg": "/SkrypkinaCV/static/media/kidsLike.d12f202a.jpg",
     "static/media/reacttest.jpg": "/SkrypkinaCV/static/media/reacttest.482aed89.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.07b5a49b.js",
     "static/js/2.2297c320.chunk.js",
-    "static/css/main.327d5d06.chunk.css",
-    "static/js/main.9698b32d.chunk.js"
+    "static/css/main.a2c9942d.chunk.css",
+    "static/js/main.906283e1.chunk.js"
   ]
 }
