@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "145cfefb071f23f79e006f41728424bc",
+    "revision": "df6bbee7c50bcea4ad4722f5e204f3f6",
     "url": "/SkrypkinaCV/index.html"
   },
   {
-    "revision": "6fce1d32b3f334b91243",
+    "revision": "051fd860d224ce11ffef",
     "url": "/SkrypkinaCV/static/css/main.a2c9942d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SkrypkinaCV/static/js/2.2297c320.chunk.js"
   },
   {
-    "revision": "6fce1d32b3f334b91243",
-    "url": "/SkrypkinaCV/static/js/main.906283e1.chunk.js"
+    "revision": "051fd860d224ce11ffef",
+    "url": "/SkrypkinaCV/static/js/main.93a2d4a9.chunk.js"
   },
   {
     "revision": "d4bacf45382e2c95c88b",
