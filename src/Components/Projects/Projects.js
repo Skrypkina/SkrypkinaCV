@@ -96,7 +96,7 @@ const Projects = () => (
         />
         <div className={styles.overlay}>
           <a
-            href="https://kids-like.goit.co.ua/"
+            href="https://skrypkina.github.io/portfolio/"
             target="_blank"
             rel="noopener noreferrer"
           >
